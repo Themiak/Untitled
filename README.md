@@ -1,5 +1,5 @@
 ## Untitled
-gracz odpowiada na pytania po wyczerpaniu życia lub odpowiedzieniu na wszystkie pytania końiec gry.
+gracz odpowiada na pytania po wyczerpaniu życia lub odpowiedzieniu na wszystkie pytania koniec gry.
 
 ##### Sterowanie:
  - sterujemy graczem używając klawiszy [w,a,s,d].
